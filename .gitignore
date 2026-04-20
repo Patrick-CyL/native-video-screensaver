@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/NativeVideoScrSaver
+/bin/Release/x64
+/obj/Release/x64
+/publish/screensaver2.scr
+/publish/test2.scr
+/publish/test3.scr
+/publish/test3_h264.scr
+/publish/test4.scr
