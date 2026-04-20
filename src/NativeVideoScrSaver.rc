@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_APP_MANIFEST RT_MANIFEST "app.manifest"
+IDR_PACKAGED_VIDEO RCDATA "..\\Assets\\PackagedVideo.bin"
